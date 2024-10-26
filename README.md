@@ -31,8 +31,3 @@ In this repo, I will be:
    - Sorting (Bubble Sort, Quick Sort, Merge Sort)
    - Searching (Linear Search, Binary Search)
 
-## How to Use
-
-1. Clone the repository to your machine:
-   ```bash
-   git clone https://github.com/your-username/java-dsa-practice.git
